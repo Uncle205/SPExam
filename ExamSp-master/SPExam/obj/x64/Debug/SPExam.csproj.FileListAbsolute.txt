@@ -1,0 +1,10 @@
+C:\Users\Alibek\source\repos\SPExam\SPExam\bin\x64\Debug\SPExam.exe.config
+C:\Users\Alibek\source\repos\SPExam\SPExam\bin\x64\Debug\SPExam.exe
+C:\Users\Alibek\source\repos\SPExam\SPExam\bin\x64\Debug\SPExam.pdb
+C:\Users\Alibek\source\repos\SPExam\SPExam\obj\x64\Debug\SPExam.csprojAssemblyReference.cache
+C:\Users\Alibek\source\repos\SPExam\SPExam\obj\x64\Debug\SPExam.Form1.resources
+C:\Users\Alibek\source\repos\SPExam\SPExam\obj\x64\Debug\SPExam.Properties.Resources.resources
+C:\Users\Alibek\source\repos\SPExam\SPExam\obj\x64\Debug\SPExam.csproj.GenerateResource.cache
+C:\Users\Alibek\source\repos\SPExam\SPExam\obj\x64\Debug\SPExam.csproj.CoreCompileInputs.cache
+C:\Users\Alibek\source\repos\SPExam\SPExam\obj\x64\Debug\SPExam.exe
+C:\Users\Alibek\source\repos\SPExam\SPExam\obj\x64\Debug\SPExam.pdb

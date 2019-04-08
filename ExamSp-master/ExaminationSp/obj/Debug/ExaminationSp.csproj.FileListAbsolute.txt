@@ -1,0 +1,10 @@
+C:\Users\АбдрахмановА\Desktop\ExamSp-master\ExaminationSp\bin\Debug\ExaminationSp.exe.config
+C:\Users\АбдрахмановА\Desktop\ExamSp-master\ExaminationSp\bin\Debug\ExaminationSp.exe
+C:\Users\АбдрахмановА\Desktop\ExamSp-master\ExaminationSp\bin\Debug\ExaminationSp.pdb
+C:\Users\АбдрахмановА\Desktop\ExamSp-master\ExaminationSp\obj\Debug\ExaminationSp.csprojAssemblyReference.cache
+C:\Users\АбдрахмановА\Desktop\ExamSp-master\ExaminationSp\obj\Debug\ExaminationSp.Form1.resources
+C:\Users\АбдрахмановА\Desktop\ExamSp-master\ExaminationSp\obj\Debug\ExaminationSp.Properties.Resources.resources
+C:\Users\АбдрахмановА\Desktop\ExamSp-master\ExaminationSp\obj\Debug\ExaminationSp.csproj.GenerateResource.cache
+C:\Users\АбдрахмановА\Desktop\ExamSp-master\ExaminationSp\obj\Debug\ExaminationSp.csproj.CoreCompileInputs.cache
+C:\Users\АбдрахмановА\Desktop\ExamSp-master\ExaminationSp\obj\Debug\ExaminationSp.exe
+C:\Users\АбдрахмановА\Desktop\ExamSp-master\ExaminationSp\obj\Debug\ExaminationSp.pdb
